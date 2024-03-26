@@ -76,24 +76,11 @@ class _HomepageState extends State<Homepage> {
                         ),
                         textAlign: TextAlign.center,
                       ),
-                      
                     ],
                   ),
-                  
                 ),
-                
               ),
-              
             ),
-            Column(
-              children: [
-               Padding(padding: 
-               
-               )
-               
-              ],
-            )
-            
           ],
         ),
       ),
